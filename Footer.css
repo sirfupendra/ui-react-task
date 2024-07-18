@@ -1,0 +1,26 @@
+/* src/components/Footer.css */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: ;
+    border-top: 1px solid #ccc;
+  }
+  
+  .instructor {
+    display: flex;
+    align-items: center;
+  }
+  
+  .instructor img {
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  
+  .related-to-course a {
+    display: block;
+    margin: 5px 0;
+    color: blue;
+    text-decoration: none;
+  }
+  
